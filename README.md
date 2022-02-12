@@ -12,9 +12,9 @@ You can often find me coding, learning new stuff, and honing my skills on variou
 - 💬 Ask me about Data insights and data driven solution
 I also love working with different technologies & platforms and my current favorite ones are
 
-❤️ SQL / MySQL
 ❤️ Python
 ❤️ Power BI
+❤️ SQL / MySQL
 ❤️ AWS
 ❤️ Tableau
 
