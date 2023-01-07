@@ -2,11 +2,11 @@
 
 I' am a author, Currently I am Data science Practitioner and Engineering Student.
 
-- 🌱 I'm currently learning at [Applied Ai](https://www.appliedaicourse.com/) 🦢
+- 🌱 I'm currently learning at [ineuron.ai](https://ineuron.ai/) 🦢
 - 😻 I'am interseted in Techonologies like analytics, machine learning and cloud.
 - 💡 Always excited to know how data help to improve business performance
 - 🔭 I’m looking For opportunity in data science domain.
-- 🥅 2022 Goals: Learn more about Machine Learning and Cloud Computing
+- 🥅 2023 Goals: Learn more about advance analytics and Cloud Computing
 
 You can often find me working on making interactive dashboard in power bi and tablebeu, Data analysis projects and coding in Python
 - ⚡ Fun fact: I love to watch Web Series
