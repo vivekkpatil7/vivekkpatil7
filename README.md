@@ -2,7 +2,7 @@
 
 I' am a author, Currently I am Data science Practitioner and Engineering Student.
 
-- 🌱 I'm currently learning at [ineuron.ai](https://ineuron.ai/) 🦢
+- 🌱 I'm currently learning cloud computing and python
 - 😻 I'am interseted in Techonologies like analytics, data engineering and cloud.
 - 💡 Always excited to know how data help to improve business performance
 - 🔭 I’m looking For opportunity in data domain.
@@ -23,18 +23,6 @@ You can often find me working on making interactive dashboard in power bi and ta
 This is how you dropdown.
 </details>
 
-
-### Languages and Tools:
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-<a href="mysql-official.svg" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="heroku" width="40" height="40"/>
-<a href="mysql-official.svg" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="heroku" width="40" height="40"/>
-<a href="mysql-official.svg" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="heroku" width="40" height="40"/>
-<a href="mysql-official.svg" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="heroku" width="40" height="40"/>
-<a href="mysql-official.svg" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="heroku" width="40" height="40"/>
-<a href="mysql-official.svg" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="heroku" width="40" height="40"/>
-<a href="mysql-official.svg" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="heroku" width="40" height="40"/>
-<a href="mysql-official.svg" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="heroku" width="40" height="40"/>
-</details>
 
 
   
