@@ -4,9 +4,9 @@ I' am a author, Currently I am Data science Practitioner and Engineering Student
 
 - 🌱 I'm currently learning cloud computing and python
 - 😻 I'am interseted in Techonologies likes Devops, cloud Computing.
-- 💡 Always excited to know how data help to improve business performance
+- 💡 Always excited to know how system works behind the scalable systems.
 - 🔭 I’m looking For opportunity in data domain.
-- 🥅 2023 Goals: Learn more about advance analytics and Cloud Computing
+- 🥅 2023 Goals: Clear Cloud certifications such as az 900, az 104
 
 #### Tools i Know - 
 - Technical Skills:
