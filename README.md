@@ -1,11 +1,11 @@
 # Namste, I'm Vivek Patil 👋 
 
-I' am a author, Currently I am Data science Practitioner and Engineering Student.
+I' am a author, Currently I am Devops and cloud computing Practitioner and Engineering Student.
 
-- 🌱 I'm currently learning cloud computing and python
+- 🌱 I'm currently learning cloud computing and Devops
 - 😻 I'am interseted in Techonologies likes Devops, cloud Computing.
 - 💡 Always excited to know how system works behind the scalable systems.
-- 🔭 I’m looking For opportunity in data domain.
+- 🔭 I’m looking For an opportunity in cloud and devops domain.
 - 🥅 2023 Goals: Clear Cloud certifications such as az 900, az 104
 
 #### Tools i Know - 
@@ -17,11 +17,11 @@ I' am a author, Currently I am Data science Practitioner and Engineering Student
 - Platform: Linux, Windows
 - Atlassian Tools: Jira
 - Other Skills: Data visualization, Web development
-- Other Tools: VS-code, Notepad++, Power BI, Snowflex, Alteryx
+- Other Tools: VS-code, Notepad++, Power BI, Alteryx
 
 You can often find me working on AWS,Azure, Data analysis projects on power bi and coding in Python and many more
 - ⚡ Fun fact: I love to watch Web Series and go for trekking 
-- 💬 Ask me about Data insights and data driven solution
+- 💬 Ask me about Azure devops and data engineering
 
 ### Connect with me
 
