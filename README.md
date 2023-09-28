@@ -6,30 +6,26 @@
 
 📚 Cloud Engineer | 🛠️ DevOps Engineer | 💡 Developer 
 
-🌱 Currently on a journey of continuous learning in cloud computing and DevOps.
-😻 Passionate about cutting-edge technologies like DevOps and Cloud Computing.
-💡 Always curious to unravel the inner workings of scalable systems.
-🔭 Actively seeking opportunities in the dynamic fields of cloud and DevOps.
-🧰 Proficient in: Python, Jenkins, AWS, Azure, Terraform, Ansible, Grafana 
+- 🌱 Currently on a journey of continuous learning in cloud computing and DevOps.
+- 😻 Passionate about cutting-edge technologies like DevOps and Cloud Computing.
+- 💡 Always curious to unravel the inner workings of scalable systems.
+- 🔭 Actively seeking opportunities in the dynamic fields of cloud and DevOps.
+- 🧰 Proficient in: Python, AWS & Azure Cloud
 
-- 🌱 I'm currently learning cloud computing and Devops
-- 😻 I'am interseted in Techonologies likes Devops, cloud Computing.
-- 💡 Always excited to know how system works behind the scalable systems.
-- 🔭 I’m looking For an opportunity in cloud and devops domain.
-- 🥅 2023 Goals: Clear Cloud certifications such as az 900, az 104
 
 #### Tools i Know - 
 - Technical Skills:
-- Languages: Python, SQL
+- Languages: Python, SQL, BashScripting, Grovy, YAML
 - Source Code Management and Version Control: GIT, GitHub
 - Containerization: Docker
 - Cloud Platform: Microsoft Azure, Amazon Web Services (AWS)
 - Platform: Linux, Windows
+- DevOps Tools: Terraform, Ansible
 - Atlassian Tools: Jira
-- Other Skills: Data visualization, Web development
-- Other Tools: VS-code, Notepad++, Power BI, Alteryx
+- CI/CD Tools: Jenkins, Azure DevOps, AWS DevOps
+- Other Tools: VS-code, Power BI
 
-You can often find me working on AWS,Azure, Data analysis projects on power bi and coding in Python and many more
+You can often find me working on AWS, Azure, Data analysis projects on power bi and coding in Python and many more
 - ⚡ Fun fact: I love to watch Web Series and go for trekking 
 - 💬 Ask me about Azure devops and data engineering
 
