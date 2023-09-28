@@ -13,8 +13,8 @@
 - 🧰 Proficient in: Python, AWS & Azure Cloud
 
 
-#### Tools i Know - 
-- Technical Skills:
+#### Technical Skills:
+
 - Languages: Python, SQL, BashScripting, Grovy, YAML
 - Source Code Management and Version Control: GIT, GitHub
 - Containerization: Docker
