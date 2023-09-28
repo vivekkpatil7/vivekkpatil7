@@ -1,4 +1,9 @@
-# Namste, I'm Vivek Patil 👋 
+# Hello, I'm Vivek Patil 👋 
+
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem+Solver;Full+Stack+Web+Developer;Java+Backend+Developer;Web+Developer;Quick+learner;Self+Motivated&color=teal&center=true" />
+</div>
+
 
 I' am a author, Currently I am Devops and cloud computing Practitioner and Engineering Student.
 
