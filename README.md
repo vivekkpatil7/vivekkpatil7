@@ -14,9 +14,9 @@
 - 👨‍💻 Checkout my [Portfolio](https://saiprasaddabbe.github.io/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 -  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/1dPezGr5EcYuIvLhCYX5MrLwLKHQogX7d/view?usp=share_link) &nbsp;
 
-  #### 💬 Ask me about anything, I am happy to help <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+  #### 💬 Ask me about anything, I am happy to help
 
-- 📫 How to reach me **saiprasddabbe@gmail.com** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 📫 How to reach me **vivekkpatil7@yahoo.com** &nbsp; 
 
 <br>
 
