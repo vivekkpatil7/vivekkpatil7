@@ -1,11 +1,16 @@
 # Hello, I'm Vivek Patil 👋 
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem+Solver;Full+Stack+Web+Developer;Java+Backend+Developer;Web+Developer;Quick+learner;Self+Motivated&color=teal&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem+Solver;DevOps+Engineer;Cloud+Engineer;Quick+learner;Self+Motivated&color=teal&center=true" />
 </div>
 
+📚 Cloud Engineer | 🛠️ DevOps Engineer | 💡 Developer 
 
-I' am a author, Currently I am Devops and cloud computing Practitioner and Engineering Student.
+🌱 Currently on a journey of continuous learning in cloud computing and DevOps.
+😻 Passionate about cutting-edge technologies like DevOps and Cloud Computing.
+💡 Always curious to unravel the inner workings of scalable systems.
+🔭 Actively seeking opportunities in the dynamic fields of cloud and DevOps.
+🧰 Proficient in: Python, Jenkins, AWS, Azure, Terraform, Ansible, Grafana 
 
 - 🌱 I'm currently learning cloud computing and Devops
 - 😻 I'am interseted in Techonologies likes Devops, cloud Computing.
