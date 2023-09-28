@@ -13,21 +13,9 @@
 - 🧰 Proficient in: Python, AWS & Azure Cloud
 
 
-#### Technical Skills:
-
-- Languages: Python, SQL, BashScripting, Grovy, YAML
-- Source Code Management and Version Control: GIT, GitHub
-- Containerization: Docker
-- Cloud Platform: Microsoft Azure, Amazon Web Services (AWS)
-- Platform: Linux, Windows
-- DevOps Tools: Terraform, Ansible
-- Atlassian Tools: Jira
-- CI/CD Tools: Jenkins, Azure DevOps, AWS DevOps
-- Other Tools: VS-code, Power BI
-
-You can often find me working on AWS, Azure, Data analysis projects on power bi and coding in Python and many more
+You can often find me working on AWS, Azure, Data analysis projects on Power BI coding in Python, and many more
 - ⚡ Fun fact: I love to watch Web Series and go for trekking 
-- 💬 Ask me about Azure devops and data engineering
+- 💬 Ask me about Azure DevOps and data engineering
 
 <h3> 🚀 Languages and Tools:</h3>
 
