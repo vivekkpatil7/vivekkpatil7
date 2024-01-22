@@ -4,7 +4,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem+Solver;DevOps+Engineer;Cloud+Engineer;Quick+learner;Self+Motivated&color=teal&center=true" />
 </div>
 
-📚 Cloud Engineer | 🛠️ DevOps Engineer | 💡 Developer 
+📚 Cloud Engineer | 🛠️ DevOps Engineer | 💡 Python Developer 
 
 - 🌱 Currently on a journey of continuous learning in cloud computing and DevOps.
 - 😻 Passionate about cutting-edge technologies like DevOps and Cloud Computing.
